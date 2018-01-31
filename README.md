@@ -2,6 +2,19 @@
 
 Creative Project
 
+
+OUTPUT REQUIREMENTS
+	
+	Weekly accomplishment report
+		
+		Electronic submission via Google Classroom
+		
+		Hardcopy compilation to be submitted at the end of semester
+
+
+
+
+
 Create POC (proof of concept)
 
 Preferred focus
