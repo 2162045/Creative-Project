@@ -1,0 +1,35 @@
+html {
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
+body {
+  height: auto;
+  width: 100%;
+}
+/*  
+  color: #FFF;
+  margin: 0;
+  text-transform: uppercase;
+  font-size: 100%;
+  font-family: "Trebuchet MS";
+ */
+ #headTop{
+ 	background: url("../images/header-layout.jpg") no-repeat fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+ }
+ .title{
+ 	color: #FFF;
+    margin: 0;
+	text-align: center;
+    font-size: 46px;
+    font-family: "Trebuchet MS";
+    padding-top: 13%;
+    padding-bottom: 7%;
+ }
