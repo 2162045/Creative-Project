@@ -1,0 +1,185 @@
+@font-face{
+  font-family: Titilium;
+  src: url('fonts/TitilliumWeb-Regular.ttf');
+}
+
+body, html{
+  height: 100%;
+  margin: 0;
+  font-family: "Titilium";
+}
+
+#top{
+  background-image: url("../images/header-layout.jpg");
+  height: 60%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+ a{
+  text-decoration: none;
+  color: black;
+ }
+
+ a:hover{
+  color: #007ac4;
+ }
+
+.title{
+ 	color: #FFF;
+  margin: 0;
+	text-align: center;
+  font-size: 34px;
+  font-family: "Titilium";
+ }
+
+.logo{
+  display: block;
+  margin: auto;
+  padding-bottom: 1%;
+  padding-top: 2%;
+}
+
+.container{
+  color: white;
+  text-align: center;
+  font-size: 48px;
+  font-family: "Titilium";
+  position: relative;
+}
+
+.centered {
+    position: absolute;
+    top: 40%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+
+.centeredCatch {
+    position: absolute;
+    top: 55%;
+    left: 33%;
+    font-size: 28px;
+    transform: translate(-50%, -50%);
+}
+
+.button {
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  border: 2px solid white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left:20px;
+  margin-right: 20px;
+  float: right;
+}
+
+a.button.button1 {}
+.button:hover {
+  background-color: white;
+  color: black;
+}
+
+.searchContainer{
+  width: 350px; 
+  margin: 0 auto;
+  margin-top: 30px;
+}
+
+#searchBar{
+  margin: 0 auto;
+  width: 100%;
+  height: 45px;
+  padding: 0 20px;
+  font-size: 1rem;
+  border: 1px solid #D0CFCE;
+  outline: none;
+ }
+
+#searchBar:hover{
+  border: 2px solid #007ac4;
+  cursor: pointer;
+}
+
+.searchIcon{
+  position: relative;
+  float: right;
+  width: 75px;
+  height: 75px;
+  top: -62px;
+  right: -45px;
+}
+
+.find{
+  color: black;
+  margin: 0;
+  text-align: center;
+  font-size: 34px;
+  font-family: "Titilium";
+  margin-top: 30px;
+ }
+
+.block{
+  color: black;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Titilium";
+  padding: 65px;
+  display: inline-block;
+ }
+
+.learn {
+  background-color: rgba(255, 255, 255, 0);
+  color: white;
+  border: 2px solid white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  position: absolute;
+  top: 68%;
+  left: 36%;
+  font-family: none;
+}
+
+a.learn.button2 {}
+.learn:hover {
+  background-color: white;
+  color: black;
+}
+
+.block2{
+  color: black;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Titilium";
+  padding: 20px;
+  display: inline-block;
+ }
+
+ .line{
+  margin-top: 50px;
+  background-color: grey;
+  width: 90%;
+  height: 2px;
+  margin-left: 5%;
+ }
+
+ .block3Footer{
+  color: black;
+  margin: 0 auto;
+  text-align: left;
+  margin-left: 5%;
+  font-size: 24px;
+  padding: 50px;
+  display: inline-block;
+ }
+
+
